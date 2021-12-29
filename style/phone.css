@@ -1,5 +1,8 @@
 
-#cover{
+.images{
+    display: none;
+}
+/* #cover{
     display: flex;
     justify-content: center;
     align-items: center;
@@ -21,4 +24,4 @@
 }
 #contact{
     display: none;
-}
+} */
