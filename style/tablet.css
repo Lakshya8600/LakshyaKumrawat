@@ -12,3 +12,8 @@
     display: none;
     right: 0px;
 }
+#main #about .container .content p {
+    margin-top: 1rem;
+    font-size: 1rem;
+    font-family: 'Baloo Bhaijaan 2', cursive;
+  }
